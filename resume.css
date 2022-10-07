@@ -1,0 +1,35 @@
+
+ body{
+    background-color:tan;
+    border: 5px white;
+    
+ }
+
+p{
+    color:black;
+ }
+
+ h1{
+     color:black;
+     font-family:"Arial black", sans-serif;
+     font-size: 2rem;
+     font-weight:bold;
+ }
+ 
+ h3{
+     color:black
+     font-family: "Arial black", sans-serif;
+     font-size: 2rem;
+     font-weight:bold;
+ 
+ }
+ h2 {
+    outline: 8px ridge black;
+    font-size: 2rem;
+
+  }
+  h3{
+    font-size: 1.5rem;
+
+  }
+
